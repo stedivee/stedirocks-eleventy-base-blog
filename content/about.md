@@ -4,6 +4,6 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
-# About
+# About - Tietoja
 
-I am a person that writes stuff.
+Eläköitynyt ex-nörtti.
