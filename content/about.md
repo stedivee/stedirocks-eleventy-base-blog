@@ -1,6 +1,6 @@
 ---
 title: Tietoja hänestä
 ---
-# About - Tietoja
+# About  Tietoja
 
 Eläköitynyt ex-nörtti.
