@@ -3,7 +3,7 @@ title: Hiphei build onnistui
 description: Elevety-sivuston julkaisu Githubista Jamstack-tekniikalla.
 date: 2026-09-15T18:37:14.754Z
 preview: ""
-draft: true
+draft: false
 tags:
     - post
 categories:
